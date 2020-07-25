@@ -2,7 +2,7 @@
 
 - 💻 I’m currently working on a video rental web app.
 - 🌱 I’m currently learning Django.
-- 🔮 I've learned HTML, CSS, JavaScript,jQuery, Bootstrap, WordPress & Python.
+- 🔮 I've learned HTML, CSS, JavaScript, jQuery, Bootstrap, WordPress & Python.
 - 👬 I’m looking to collaborate on any project/s.
 - 🔭 I’m looking for help with web apps.
 - 💬 How to reach me: [📫 martin@flischman.com] | [📷 @MartinFlischman](https://www.instagram.com/MartinFlischman/) | [🐦 @MartinFlischman](https://twitter.com/MartinFlischman)
