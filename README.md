@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="MartinFlischman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  target="_blank" />][instagram]
+[<a href="https://www.instagram.com/MartinFlischman" target="_blank"><img align="left" alt="MartinFlischman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="MartinFlischman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  target="_blank" />][linkedin]
 [<img align="left" alt="MartinFlischman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"  target="_blank" />][twitter]
 
