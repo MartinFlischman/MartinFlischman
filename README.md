@@ -1,6 +1,6 @@
 ### Hey, I'm Martin. 👋🏻️
 
-## I'm a Self-taught Developer!
+### I'm a Self-taught Developer!
 
 ---
 
