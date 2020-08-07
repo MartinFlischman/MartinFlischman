@@ -1,6 +1,6 @@
 ### Hey, I'm Martin. 👋🏻️
 
-## I'm a self-taught Developer!
+## I'm a Self-taught Developer!
 - 💻 I’m currently learning as much as I can to become a Full Stack developer.
 - 🌱 I’m currently learning Django.
 - 👬 I’m looking to collaborate on any project/s.
@@ -27,6 +27,8 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 
 <br />
+
+---
 
 <img align="left" alt="Martin Flischman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=martinflischman&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
