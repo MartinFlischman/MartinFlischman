@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<a href="https://www.instagram.com/MartinFlischman" target="_blank"><img align="left" alt="MartinFlischman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="MartinFlischman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  target="_blank" />][linkedin]
-[<img align="left" alt="MartinFlischman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"  target="_blank" />][twitter]
+[<img align="left" alt="MartinFlischman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="MartinFlischman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MartinFlischman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -34,6 +34,6 @@
 
 <img align="left" alt="Martin Flischman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=martinflischman&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-[instagram]: https://www.instagram.com/MartinFlischman
+[instagram]: <a href="https://www.instagram.com/MartinFlischman" target="_blank">
 [linkedin]: https://www.linkedin.com/in/martinflischman
 [twitter]: https://twitter.com/MartinFlischman
