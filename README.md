@@ -5,7 +5,7 @@
 ---
 
 - 💻 I’m currently learning as much as I can to become a Full Stack developer.
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning JavaScript.
 - 👬 I’m looking to collaborate on any project/s.
 - 🔭 I’m looking for help with web apps.
 - 🔮️ 2020 Goal - Make a contribution to Open Source.
