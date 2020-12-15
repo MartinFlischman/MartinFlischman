@@ -4,7 +4,7 @@
 
 ---
 
-- 💻 I’m currently learning as much as I can to become a Full Stack developer.
+- 💻 I’m currently learning as much as I can to become a Front-end developer.
 - 🌱 I’m currently learning JavaScript.
 - 👬 I’m looking to collaborate on any project/s.
 - 🔭 I’m looking for help with web apps.
