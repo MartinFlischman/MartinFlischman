@@ -1,6 +1,6 @@
 ### Hey, I'm Martin. 👋🏻️
 
-### I'm a Self-taught Developer!
+### I'm a Self-taught Web Developer!
 
 ---
 
@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning JavaScript.
 - 👬 I’m looking to collaborate on any project/s.
 - 🔭 I’m looking for help with web apps.
-- 🔮️ 2020 Goal - Make a contribution to Open Source.
+- 🔮️ 2021 Goal - Make a contribution to Open Source.
 - ⭐ Fun fact: I love being outdoors. Favourites being hiking, park runs, kayaking and going to the beach.
 
 ### Connect with me:
