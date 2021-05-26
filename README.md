@@ -1,11 +1,11 @@
 ### Hey, I'm Martin. 👋🏻️
 
-### I'm a Self-taught Web Developer!
+### I'm a (Self-taught) Jnr Web Developer!
 
 ---
 
 - 💻 I’m currently learning as much as I can to become a Front-end developer.
-- 🌱 I’m currently learning Tailwind CSS.
+- 🌱 I’m currently learning JavaScript.
 - 👬 I’m looking to collaborate on any project/s.
 - 🔭 I’m looking for help with web apps.
 - 🔮️ 2021 Goal - Make a contribution to Open Source.
@@ -13,7 +13,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="MartinFlischman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="MartinFlischman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MartinFlischman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
