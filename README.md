@@ -1,6 +1,6 @@
 ### Hey, I'm Martin. 👋🏻️
 
-### I'm a (Self-taught) Jnr Web Developer!
+### I'm a (Self-taught) Front-End Developer!
 
 ---
 
