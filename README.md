@@ -1,11 +1,10 @@
 ### Hey, I'm Martin. 👋🏻️
 
-### I'm a (Self-taught) Front-End Developer!
+### I'm a Jnr Web Developer!
 
 ---
 
-- 💻 I’m currently learning as much as I can to become a Front-end developer.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learningand working to improve my JavaScript skills.
 - 👬 I’m looking to collaborate on any project/s.
 - 🔭 I’m looking for help with web apps.
 - 🔮️ 2021 Goal - Make a contribution to Open Source.
