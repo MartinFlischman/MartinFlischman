@@ -4,7 +4,7 @@
 
 ---
 
-- 🌱 I’m currently learningand working to improve my JavaScript skills.
+- 🌱 I’m currently learning and working to improve my JavaScript skills.
 - 👬 I’m looking to collaborate on any project/s.
 - 🔭 I’m looking for help with web apps.
 - 🔮️ 2021 Goal - Make a contribution to Open Source.
