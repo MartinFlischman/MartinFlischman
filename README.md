@@ -1,6 +1,6 @@
 ### Hey, I'm Martin. 👋🏻️
 
-### I'm a Jnr Web Developer!
+### I'm a Jnr Front-End Developer!
 
 ---
 
