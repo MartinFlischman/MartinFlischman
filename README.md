@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a menu app.<br>🌱 I’m currently learning Swift.<br>📫 How to reach me: wipes_meshes.03@icloud.com<br>⚡ Fun facts: I'm a Pescatarian, a Pokémon fan, Likes hiking.<br>🧔🏻‍♂️ Pronouns: He/Him/His
+🔭 I’m currently working on a To Do List app.<br>🌱 I’m currently learning Swift.<br>📫 How to reach me: wipes_meshes.03@icloud.com<br>⚡ Fun facts: I'm a Pescatarian, a Pokémon fan, Likes hiking.<br>🧔🏻‍♂️ Pronouns: He/Him/His
 
 
 ## 🌐 Socials:
