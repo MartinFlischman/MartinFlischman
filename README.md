@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on completing #100DaysOfSwiftUI.<br>🌱 I’m currently learning Swift.<br>📫 How to reach me: wipes_meshes.03@icloud.com<br>⚡ Fun facts: I'm a Pescatarian, a Pokémon fan, Likes hiking.<br>🧔🏻‍♂️ Pronouns: He/Him/His
+🔭 I’m currently working on completing #100DaysOfSwiftUI.<br>🌱 I’m currently learning SwiftUI.<br>📫 How to reach me: wipes_meshes.03@icloud.com<br>⚡ Fun facts: I'm a Pescatarian, a Pokémon fan, Likes hiking.<br>🧔🏻‍♂️ Pronouns: He/Him/His
 
 
 ## 🌐 Socials:
