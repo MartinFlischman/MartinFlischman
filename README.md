@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently building projects to gain experience.<br>📫 How to reach me: hem0inn@icloud.com<br>⚡ Fun fact: I'm an Apple fanboy.<br>🧔🏻‍♂️ Pronouns: He/Him/His
+<br>🌱 I’m currently building projects to gain experience.<br>📫 How to reach me: martincodes@icloud.com<br>⚡ Fun fact: I'm an Apple fanboy.<br>🧔🏻‍♂️ Pronouns: He/Him/His
 
 
 ## 🌐 Socials:
