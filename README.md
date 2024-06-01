@@ -5,7 +5,7 @@ Front-end Developer
 -------------------
 
 * 🌍  I'm based in Cape Town, South Africa
-* 🖥️  See my portfolio at [MartinCodes](http://martincodes.netlify.app/)
+* 🖥️  See my portfolio at [MartinCodes](http://martincodes.co.za/)
 * ✉️  You can contact me at [martincodes@icloud.com](mailto:martincodes@icloud.com)
 * 🧠  I'm learning Bulma CSS
 * ⚡  I ❤️ Apple products, Travel and ☕️
