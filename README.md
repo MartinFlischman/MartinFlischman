@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Martin Flischman
 ========================================================================================================================================
 
-Front-end Developer
+Software Developer
 -------------------
 
 * 🌍  I'm based in Cape Town, South Africa
 * 🖥️  See my portfolio at [MartinCodes](http://martincodes.co.za/)
 * ✉️  You can contact me at [martincodes@icloud.com](mailto:martincodes@icloud.com)
-* 🧠  I'm learning Bulma CSS
+* 🧠  I'm learning Python
 * ⚡  I ❤️ Apple products, Travel and ☕️
 
 ### Skills
