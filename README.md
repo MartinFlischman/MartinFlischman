@@ -1,11 +1,11 @@
 Software Developer
 ------------------
 
-* 🌍  I'm based in Cape Town, South Africa
-* 🖥️  See my portfolio at [MartinCodes](http://martincodes.co.za)
-* ✉️  You can contact me at [martincodes@icloud.com](mailto:martincodes@icloud.com)
-* 🧠  I'm learning Python 🐍
-* ⚡  I ❤️ Apple products, Travel and ☕️
+* 📍  I'm based in Cape Town, South Africa
+* 🌱  I'm currently learning Python
+* 🖥  View my portfolio at: [MartinCodes](http://martincodes.co.za)
+* ✉  You can contact me at: [martincodes@icloud.com](mailto:martincodes@icloud.com)
+* ⚡   Fun Facts: I ❤️ Apple products, Travel and ☕️
 
 
 ## Socials
