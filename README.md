@@ -1,11 +1,10 @@
-![github-header-image](https://github.com/MartinFlischman/MartinFlischman/assets/26260699/2de219dd-8cab-4534-8279-018dd9e1b879)
+![github-header-image](https://github.com/MartinFlischman/MartinFlischman/assets/26260699/2c48e874-64ea-4ab4-9f0e-7b4fa53e1dfc)
 
 * 📍  I'm based in Cape Town, South Africa
 * 🌱  I'm currently learning Python
 * 🤖  My portfolio is available at [MartinCodes](http://martincodes.co.za)
 * ✉   How to reach me? [martincodes@icloud.com](mailto:martincodes@icloud.com)
 * ⚡   Fun Facts: I ❤️ Apple products, Travel and ☕️
-
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martinflischman) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MartinFlischman) 
