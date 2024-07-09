@@ -1,5 +1,4 @@
-Hi 👋🏻, I'm Martin Flischman
-------------------------------
+![github-header-image](https://github.com/MartinFlischman/MartinFlischman/assets/26260699/2de219dd-8cab-4534-8279-018dd9e1b879)
 
 * 📍  I'm based in Cape Town, South Africa
 * 🌱  I'm currently learning Python
