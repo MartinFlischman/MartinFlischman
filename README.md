@@ -2,8 +2,8 @@
 
 * 📍  Based in Cape Town, South Africa
 * 🌱  I'm currently learning iOS & Swift
-* ✉   How to reach me? [martincodes@icloud.com](mailto:martincodes@icloud.com)
-* ⚡   Fun Facts: I ❤️ Apple products, Travel and ☕️
+* ✉️  How to reach me? [martincodes@icloud.com](mailto:martincodes@icloud.com)
+* ⚡  Fun Facts: I ❤️ Apple products, Travel and ☕️
  <!-- * 🤖  My portfolio is available at [MartinCodes](http://martincodes.co.za) -->
 
 ## Connect with Me
