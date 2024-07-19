@@ -2,9 +2,9 @@
 
 * 📍  Based in Cape Town, South Africa
 * 🌱  I'm currently learning iOS & Swift
+* 🤖  My portfolio is available at [MartinCodes](https://bento.me/martincodes)
 * ✉️  How to reach me? [martincodes@icloud.com](mailto:martincodes@icloud.com)
-* ⚡  Fun Facts: I ❤️ Apple products, Travel and ☕️
- <!-- * 🤖  My portfolio is available at [MartinCodes](http://martincodes.co.za) -->
+* ⚡  Fun Facts: I ❤️ travel ✈️ and good coffee ☕️
 
 ## Connect with Me
 <p align="left">
@@ -38,10 +38,8 @@
 
 ## GitHub Stats
 <div align="left">
-  <!-- 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinFlischman&theme=dracula&hide_border=true&layout=compact"><p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=MartinFlischman&theme=dracula&hide_border=true&show_icons=true"><p>
-  -->
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinFlischman&theme=dracula&hide_border=true"><p>
 </div>
 
