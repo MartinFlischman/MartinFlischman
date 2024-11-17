@@ -1,7 +1,7 @@
 ![github-header-image](https://github.com/MartinFlischman/MartinFlischman/assets/26260699/2c48e874-64ea-4ab4-9f0e-7b4fa53e1dfc)
 
 * 📍  Based in Cape Town, South Africa
-* 🌱  I'm currently learning Swift & SwiftUI
+* 🌱  I'm currently learning Tailwind CSS
 * 🤖  My portfolio is available at [MartinCodes](https://bento.me/martincodes)
 * ✉️  How to reach me? [martincodes@icloud.com](mailto:martincodes@icloud.com)
 * ⚡  Fun Facts: I ❤️ travel ✈️ and good coffee ☕️
